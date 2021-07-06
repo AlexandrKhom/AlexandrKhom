@@ -74,7 +74,7 @@
 **Activity for the last week :**
 
 <div> 
-  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > 
+  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=AlexandrKhom&show_icons=true" alt="myGitStats" > 
 </div>
 
 

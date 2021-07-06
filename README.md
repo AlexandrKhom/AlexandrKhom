@@ -1,22 +1,22 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE-22a5781b9/">
+<!-- <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE-22a5781b9/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/maksfedenko/">
   <img align="left" alt="Instagram" width="24px" src="https://github.com/feden2906/icons/blob/main/instagram.png" />
-</a>
-<a href="https://t.me/feden2906">
+</a> -->
+<a href="https://t.me/Ander988">
   <img align="left" alt="Telegram" width="24px" src="https://github.com/feden2906/icons/blob/main/telegram.png" />
 </a>
-<a href="https://www.facebook.com/MaksFedenko">
+<!-- <a href="https://www.facebook.com/MaksFedenko">
   <img align="left" alt="Facebook" width="24px" src="https://github.com/feden2906/icons/blob/main/facebook.png" />
-</a>
+</a> -->
 <a href="#">
   <img title="feden2906" align="left" alt="Skype" width="24px" src="https://github.com/feden2906/icons/blob/main/skype.png" />
 </a>
-<a href="mailto:feden2906@gmail.com">
+<a href="mailto:alex988andr@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
 </a>
 

@@ -72,9 +72,11 @@
 <br />
 
 **Activity for the last week :**
+  <div> 
 <img align="right" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrKhom" alt="myGitStats" > 
 
   <img align="right" height="250" src="https://github-readme-stats.vercel.app/api?username=AlexandrKhom&show_icons=true" alt="myGitStats" > 
 
+</div>
 
 

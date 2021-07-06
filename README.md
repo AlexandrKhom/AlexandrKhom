@@ -16,7 +16,7 @@
 <a href="#">
   <img title="feden2906" align="left" alt="Skype" width="24px" src="https://github.com/feden2906/icons/blob/main/skype.png" />
 </a>
-<a href="mailto:alex988andr@gmail.com">
+<a href="alex988andr@gmail.com">
   <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
 </a>
 
